@@ -1,3 +1,7 @@
+# Movie Finder
+
+I use [this API](http://www.omdbapi.com/) for get the movie
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
